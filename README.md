@@ -1,6 +1,10 @@
+
 # My_Blog 
 
 My_Blog is a complete project using Node and Sequelize.
+
+![nodeProject](https://user-images.githubusercontent.com/67708374/93546529-530c7980-f939-11ea-897f-62ea38eaece6.png)
+
 
 ## Objective
 
